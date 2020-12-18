@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T04:01:16.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0_uO4kLPFLl6HVSdTAO4" version="14.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-18T04:08:19.335Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yh1lU-uRgqKSmMx8lvuw" version="14.0.4" type="github" pages="6">
   <diagram id="bWneKNMKmripA9l1gz25" name="EC2">
     <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXhco_O7Xl9HuxDzQ7O3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l4eoXGyp8XsAWNl4AvjT-1" source="l4eoXGyp8XsAWNl4AvjT-4" target="uOnKDI2wuXWGxTvwOY8h-14">
+        <mxCell id="rXhco_O7Xl9HuxDzQ7O3-5" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l4eoXGyp8XsAWNl4AvjT-1" source="l4eoXGyp8XsAWNl4AvjT-4" target="uOnKDI2wuXWGxTvwOY8h-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l4eoXGyp8XsAWNl4AvjT-4" value="Do you need manage services?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="l4eoXGyp8XsAWNl4AvjT-1">
@@ -138,7 +138,7 @@
         <mxCell id="uOnKDI2wuXWGxTvwOY8h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l4eoXGyp8XsAWNl4AvjT-1" source="Vz4dV8RmYdbcSWKdw0cF-2" target="Vz4dV8RmYdbcSWKdw0cF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uOnKDI2wuXWGxTvwOY8h-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uOnKDI2wuXWGxTvwOY8h-6">
+        <mxCell id="uOnKDI2wuXWGxTvwOY8h-12" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uOnKDI2wuXWGxTvwOY8h-6">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -177,10 +177,15 @@
             <mxPoint x="130" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rXhco_O7Xl9HuxDzQ7O3-10" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXhco_O7Xl9HuxDzQ7O3-4">
+          <mxGeometry x="0.0857" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rXhco_O7Xl9HuxDzQ7O3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l4eoXGyp8XsAWNl4AvjT-1" source="uOnKDI2wuXWGxTvwOY8h-14" target="uOnKDI2wuXWGxTvwOY8h-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXhco_O7Xl9HuxDzQ7O3-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXhco_O7Xl9HuxDzQ7O3-7">
+        <mxCell id="rXhco_O7Xl9HuxDzQ7O3-8" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXhco_O7Xl9HuxDzQ7O3-7">
           <mxGeometry x="-0.16" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
