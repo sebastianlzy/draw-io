@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T03:29:05.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="w_lo-9m0FldPTtXZZYSz" version="14.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-18T03:39:20.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IEpMKSDuhw-3UgEXPb0W" version="14.0.4" type="github" pages="6">
   <diagram id="bWneKNMKmripA9l1gz25" name="EC2">
     <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,6 +72,14 @@
         <mxCell id="vSEpSyCZbYndnRFDq3Ep-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;AWS&lt;/font&gt;&lt;/b&gt; &lt;br&gt;Lightsail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PLOAXGFdMIMOxsCU4c5V-1">
           <mxGeometry x="13" y="150" width="112" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x3CdglKDwkuWkUovQ65Z" name="compute-decision-tree">
+    <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="l4eoXGyp8XsAWNl4AvjT-0" />
+        <mxCell id="l4eoXGyp8XsAWNl4AvjT-1" parent="l4eoXGyp8XsAWNl4AvjT-0" />
       </root>
     </mxGraphModel>
   </diagram>
