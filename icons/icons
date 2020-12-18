@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T03:21:20.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="svQ00C68FEdUohGERXyo" version="14.0.4" type="github">
-  <diagram id="bWneKNMKmripA9l1gz25" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-12-18T03:22:36.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wD7htF8z7A00SDbFQRrV" version="14.0.4" type="github" pages="2">
+  <diagram id="bWneKNMKmripA9l1gz25" name="EC2">
     <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -9,6 +9,20 @@
         </mxCell>
         <mxCell id="Pu5ET-PlpatOEy0Dpl0g-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;AWS&lt;/font&gt;&lt;/b&gt; &lt;br&gt;Elastic Computing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="112" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OLvzFnmIrwNfxnLDoXPH" name="Amplify">
+    <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="MHheNajFbapfd_-5V54a-0" />
+        <mxCell id="MHheNajFbapfd_-5V54a-1" parent="MHheNajFbapfd_-5V54a-0" />
+        <mxCell id="MHheNajFbapfd_-5V54a-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" vertex="1" parent="MHheNajFbapfd_-5V54a-1">
+          <mxGeometry x="30" y="60" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="msg6PQ7X4yju7ZauRuZj-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;AWS&lt;/font&gt;&lt;/b&gt; &lt;br&gt;Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MHheNajFbapfd_-5V54a-1">
+          <mxGeometry x="13" y="150" width="112" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
