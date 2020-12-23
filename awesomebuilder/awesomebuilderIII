@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T15:54:34.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hwCKbsA_gEaUqFy5Xy5L" version="14.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-23T04:16:48.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U5W1t8Ky1Sc4MW8lO3M2" version="14.0.5" type="github" pages="8">
   <diagram id="MQUx1FSB3lLyT0u0Ji_n" name="POC">
     <mxGraphModel dx="1226" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,6 +86,24 @@
         </mxCell>
         <mxCell id="h3PfsqXZs7pZYf1SfIBQ-2" value="Amazon RDS&amp;nbsp;&lt;br&gt;(Multi A-Z)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
           <mxGeometry x="380" y="505" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-1" value="AWS Shield" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.shield;" vertex="1" parent="1">
+          <mxGeometry x="35" y="695" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-2" value="AWS WAF" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.waf;" vertex="1" parent="1">
+          <mxGeometry x="145" y="695" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-3" value="AWS Systems Manager" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.systems_manager;" vertex="1" parent="1">
+          <mxGeometry x="255" y="690" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-4" value="AWS Secrets Manager" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-6" value="Amazon CloudWatch" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
+          <mxGeometry x="575" y="690" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8UGN6Fog5bB42r8yExWR-7" value="AWS&#xa;CloudTrail" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudtrail;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
